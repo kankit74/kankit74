@@ -12,7 +12,7 @@ I am a passionate Full Stack Web Developer with expertise in building dynamic an
 
 ## Contact Me
 
-Most of the repos are client delivered projects. So can't showcase those repos. But if you want to see my work and have any questions, feedback, or collaboration opportunities, feel free to reach out to me. You can contact me through the following channels:
+Most of the repos are client delivered projects, so can't showcase them. But if you want to see my work and have any questions, feedback, or collaboration opportunities, feel free to reach out to me. You can contact me through the following channels:
 
 - Email: [kapaleankit@gmail.com](mailto:kapaleankit@gmail.com)
 - LinkedIn: [linkedin.com/in/ankit-kapale-732a70138](https://www.linkedin.com/in/ankit-kapale-732a70138)
