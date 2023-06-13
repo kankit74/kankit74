@@ -16,5 +16,6 @@ Most of the repos are client delivered projects, so can't showcase them. But if 
 
 - Email: [kapaleankit@gmail.com](mailto:kapaleankit@gmail.com)
 - LinkedIn: [linkedin.com/in/ankit-kapale-732a70138](https://www.linkedin.com/in/ankit-kapale-732a70138)
+- Upwork: [upwork.com/freelancers/~0187aec86467118d10](https://www.upwork.com/freelancers/~0187aec86467118d10)
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
